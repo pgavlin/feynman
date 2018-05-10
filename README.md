@@ -1,3 +1,3 @@
 # feynman
 
-It's a readme!
+It's a readme.
